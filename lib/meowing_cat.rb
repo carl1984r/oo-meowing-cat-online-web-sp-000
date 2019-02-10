@@ -5,4 +5,7 @@ class Cat
  jojo = Cat.new
  jojo.name = "Sadie"
 
+def meow
+  puts "meow!"
+
 end
