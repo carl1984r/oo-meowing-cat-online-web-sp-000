@@ -4,4 +4,5 @@ class Cat
 
  jojo = Cat.new
  jojo.name = "Sadie"
+ 
 end
