@@ -6,6 +6,5 @@ class Cat
  jojo.name = "Sadie"
 
 def meow
-  puts "meow!"
-
+  puts "meow"
 end
