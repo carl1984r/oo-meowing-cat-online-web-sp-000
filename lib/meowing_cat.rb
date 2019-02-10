@@ -1,7 +1,7 @@
 ## code your solution here.
-class Dog
+class Cat
   attr_accessor :name
 
- sadie = Dog.new
- sadie.name = "Sadie"
+ jojo = Cat.new
+ jojo.name = "Sadie"
 end
